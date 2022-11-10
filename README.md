@@ -14,5 +14,8 @@ npm i
 ## run
 
 ```bash
-AWS_ACCESS_KEY_ID='abc' AWS_SECRET_ACCESS_KEY='xyz' SERVICE_REGION='123' node index.mjs
+AWS_ACCESS_KEY_ID='abc' \
+AWS_SECRET_ACCESS_KEY='xyz' \
+SERVICE_REGION='123' \
+    node index.mjs
 ```
