@@ -2,6 +2,8 @@
 
 Minimal implementation of the NodeJS example from the AWS Neptune docs for OpenCypher over the Neo4j driver
 
+Optionally shows different driver calling conventions: transaction vs session, promise vs  stream)
+
 ## install
 
 ```bash
@@ -15,8 +17,9 @@ then
 npm i
 ```
 
-## configure
+## configure 
 
+* driver version: https://github.com/lmeyerov/neptune-bolt-poc/blob/main/package.json#L16
 * neptune params: `region`, `host`, ...: https://github.com/lmeyerov/neptune-bolt-poc/blob/main/index.mjs#L9
 * query: https://github.com/lmeyerov/neptune-bolt-poc/blob/main/index.mjs#L17
 
