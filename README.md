@@ -3,6 +3,13 @@
 ## install
 
 ```bash
+git clone git@github.com:lmeyerov/neptune-bolt-poc.git
+cd neptune-bolt-poc
+```
+
+then
+
+```bash
 npm i
 ```
 
