@@ -1,5 +1,7 @@
 # neptune-bolt-poc
 
+Minimal implementation of the NodeJS example from the AWS Neptune docs for OpenCypher over the Neo4j driver
+
 ## install
 
 ```bash
