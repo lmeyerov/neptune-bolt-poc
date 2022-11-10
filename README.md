@@ -2,7 +2,9 @@
 
 ## install
 
-`npm i`
+```bash
+npm i
+```
 
 ## configure
 
