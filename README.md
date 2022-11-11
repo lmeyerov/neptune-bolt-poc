@@ -7,8 +7,7 @@ Optionally shows different driver calling conventions: transaction vs session, p
 ## install
 
 ```bash
-git clone git@github.com:lmeyerov/neptune-bolt-poc.git
-cd neptune-bolt-poc
+git clone https://github.com/lmeyerov/neptune-bolt-poc.git
 ```
 
 then
